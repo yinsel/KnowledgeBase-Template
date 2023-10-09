@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme: hopeTheme({
     logo: "/yinsel.jpg",
     repo: "https://github.com/yinsel", //你的Gihub
-    docsRepo: "https://github.com/yinsel.github.io", //你的源
+    docsRepo: "https://github.com/yinsel/yinsel.github.io", //你的源
     fullscreen: true,
     hotReload: true,
     navbarLayout: {
