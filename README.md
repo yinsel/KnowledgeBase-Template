@@ -8,7 +8,7 @@ npm install pnpm -g
 ```
 pnpm install
 ```
-# 本地预览
+# 启动
 ```
 pnpm run docs:dev
 ```
